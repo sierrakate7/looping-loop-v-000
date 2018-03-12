@@ -1,5 +1,8 @@
+
 def looping
-	#your code here
-end
+  loop do
+    "Wingardium Leviosa"
+  end
+endend
 
 #call your method here
