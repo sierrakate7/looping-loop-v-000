@@ -3,6 +3,8 @@ def looping
   loop do
     "Wingardium Leviosa"
   end
-endend
+end
+
+looping
 
 #call your method here
